@@ -1,6 +1,6 @@
 # SVG-ICON-BUNDLER
 
-This simple script that builds multiple `.svg` icons into a 1 single file.
+Simple script that builds multiple `.svg` icons into a 1 single file.
  
 
 ## INSTALLATION
